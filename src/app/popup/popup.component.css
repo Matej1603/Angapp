@@ -1,8 +1,3 @@
-
-h1{
-    color: cornflowerblue;
-}
-
 .gumb{
     position:absolute;
     top: 50%;
@@ -10,8 +5,4 @@ h1{
     font-size: xx-large;
     background-color: cornflowerblue;
     color: white;
-}
-.tablica{
-    position:absolute;
-    left: 50%;
 }
